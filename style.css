@@ -1,0 +1,59 @@
+.homepage{
+    margin-top: 10pc;
+    margin-left: 20pc;
+    
+    
+}
+
+.div1{
+    background-color: black;
+    overflow: hidden;
+    display: flex;
+    position: relative;
+    
+   
+    margin-top: 50px;
+        scroll-behavior: smooth;
+        transition: all 1.5s;
+        width: 200px;
+        height: 400x;
+        margin-left: 40px;
+        transform: translate(0px,-3pc);
+        
+}
+
+.buy{
+    margin-left: 200px;
+    transform: translate(80px,300px);
+}
+.review{
+   position: absolute;
+   width: 400px;
+   height: 200px;
+   background-color: blue;
+   margin-left: 400px;
+   margin-top: 200px;
+    
+}
+
+.forpass{
+    position: fixed;
+    background-color: chocolate;
+    width: 300px;
+    transform: translate(500px,-20pc);
+    
+}
+.Signup{
+   position: relative;
+   background-color: blue;
+   width: 300px;
+   margin-top: 80px;
+   margin-left: 40px;
+}
+.loginpage{
+    position: relative;
+    background-color: aqua;
+    width: 300px;
+    margin: auto;
+    margin-left: 50px;
+}
